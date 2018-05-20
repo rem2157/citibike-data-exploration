@@ -1,0 +1,834 @@
+04/28/2018 2:24:58 PM
+Bond St & Fulton St
+	
+04/28/2018 3:12:36 PM
+11 St & 35 Ave
+	47 min 38 s
+04/24/2018 8:09:43 AM
+1 Ave & E 68 St
+	
+04/24/2018 8:29:39 AM
+E 19 St & 3 Ave
+	19 min 56 s
+04/23/2018 8:20:09 AM
+Bond St & Fulton St
+	
+04/23/2018 8:46:25 AM
+E 19 St & 3 Ave
+	26 min 16 s
+04/18/2018 5:55:20 PM
+E 19 St & 3 Ave
+	
+04/18/2018 6:25:50 PM
+Bond St & Fulton St
+	30 min 30 s
+04/14/2018 6:35:31 PM
+Central Park West & W 85 St
+	
+04/14/2018 6:47:31 PM
+E 71 St & 1 Ave
+	12 min 0 s
+04/14/2018 2:12:20 PM
+Bond St & Fulton St
+	
+04/14/2018 3:02:14 PM
+5 Ave & E 78 St
+	49 min 54 s
+03/27/2018 5:42:58 PM
+E 19 St & 3 Ave
+	
+03/27/2018 5:52:07 PM
+1 Ave & E 44 St
+	9 min 9 s
+03/18/2018 10:36:18 AM
+Amsterdam Ave & W 73 St
+	
+03/18/2018 10:56:10 AM
+Amsterdam Ave & W 119 St
+	19 min 52 s
+03/18/2018 9:15:35 AM
+W 82 St & Central Park West
+	
+03/18/2018 9:19:21 AM
+W 84 St & Broadway
+	3 min 46 s
+03/03/2018 2:30:33 PM
+Mercer St & Spring St
+	
+03/03/2018 2:44:39 PM
+E 17 St & Broadway
+	14 min 6 s
+02/28/2018 7:32:55 PM
+E 19 St & 3 Ave
+	
+02/28/2018 7:47:38 PM
+1 Ave & E 68 St
+	14 min 43 s
+02/27/2018 6:19:46 PM
+E 19 St & 3 Ave
+	
+02/27/2018 6:37:11 PM
+E 58 St & 1 Ave
+	17 min 25 s
+02/27/2018 8:21:30 AM
+Bond St & Fulton St
+	
+02/27/2018 8:48:24 AM
+E 19 St & 3 Ave
+	26 min 54 s
+02/26/2018 6:39:07 PM
+E 19 St & 3 Ave
+	
+02/26/2018 7:07:24 PM
+Bond St & Fulton St
+	28 min 17 s
+02/25/2018 7:23:28 PM
+E 19 St & 3 Ave
+	
+02/25/2018 7:48:16 PM
+Bond St & Fulton St
+	24 min 48 s
+02/25/2018 12:29:50 PM
+Bond St & Fulton St
+	
+02/25/2018 12:55:05 PM
+E 19 St & 3 Ave
+	25 min 15 s
+02/24/2018 12:01:06 PM
+Pershing Square North
+	
+02/24/2018 12:08:13 PM
+W 33 St & 7 Ave
+	7 min 7 s
+02/23/2018 9:04:01 PM
+Amsterdam Ave & W 82 St
+	
+02/23/2018 9:23:00 PM
+1 Ave & E 68 St
+	18 min 59 s
+02/23/2018 6:20:23 PM
+Amsterdam Ave & W 73 St
+	
+02/23/2018 6:23:05 PM
+Amsterdam Ave & W 82 St
+	2 min 42 s
+02/20/2018 7:05:24 PM
+E 19 St & 3 Ave
+	
+02/20/2018 7:34:09 PM
+Bond St & Fulton St
+	28 min 45 s
+02/19/2018 6:41:51 PM
+Bond St & Fulton St
+	
+02/19/2018 6:50:57 PM
+7 St & 3 Ave
+	9 min 6 s
+02/19/2018 11:38:01 AM
+State St & Smith St
+	
+02/19/2018 11:41:42 AM
+Bond St & Fulton St
+	3 min 41 s
+02/19/2018 10:34:03 AM
+Bond St & Fulton St
+	
+02/19/2018 10:37:30 AM
+State St & Smith St
+	3 min 27 s
+02/09/2018 5:39:34 PM
+E 20 St & Park Ave
+	
+02/09/2018 5:58:44 PM
+W 46 St & 11 Ave
+	19 min 10 s
+02/06/2018 6:30:24 PM
+3 Ave & E 62 St
+	
+02/06/2018 6:34:10 PM
+1 Ave & E 68 St
+	3 min 46 s
+01/27/2018 10:20:07 AM
+1 Ave & E 68 St
+	
+01/27/2018 10:30:38 AM
+E 44 St & 2 Ave
+	10 min 31 s
+12/23/2017 4:57:05 PM
+State St & Smith St
+	
+12/23/2017 4:59:54 PM
+Schermerhorn St & Bond St
+	2 min 49 s
+12/23/2017 4:45:25 PM
+Bond St & Fulton St
+	
+12/23/2017 4:49:32 PM
+Bergen St & Smith St
+	4 min 7 s
+12/19/2017 7:02:46 PM
+Bond St & Fulton St
+	
+12/19/2017 7:06:45 PM
+Bergen St & Smith St
+	3 min 59 s
+12/16/2017 8:57:11 PM
+E 45 St & 3 Ave
+	
+12/16/2017 8:59:03 PM
+E 47 St & 1 Ave
+	1 min 52 s
+12/06/2017 8:15:35 AM
+Bond St & Fulton St
+	
+12/06/2017 8:39:25 AM
+E 19 St & 3 Ave
+	23 min 50 s
+12/04/2017 6:28:03 PM
+E 19 St & 3 Ave
+	
+12/04/2017 6:53:16 PM
+Duffield St & Willoughby St
+	25 min 13 s
+12/04/2017 7:58:05 AM
+Bond St & Fulton St
+	
+12/04/2017 8:22:07 AM
+E 19 St & 3 Ave
+	24 min 2 s
+12/03/2017 1:29:19 PM
+E 84 St & Park Ave
+	
+12/03/2017 1:59:48 PM
+E 20 St & Park Ave
+	30 min 29 s
+11/30/2017 7:09:44 PM
+E 19 St & 3 Ave
+	
+11/30/2017 7:35:25 PM
+Duffield St & Willoughby St
+	25 min 41 s
+11/27/2017 7:16:26 PM
+E 19 St & 3 Ave
+	
+11/27/2017 7:34:49 PM
+1 Ave & E 68 St
+	18 min 23 s
+11/21/2017 6:14:08 PM
+E 19 St & 3 Ave
+	
+11/21/2017 6:41:07 PM
+Duffield St & Willoughby St
+	26 min 59 s
+10/25/2017 8:28:11 AM
+Bond St & Fulton St
+	
+10/25/2017 8:52:49 AM
+E 19 St & 3 Ave
+	24 min 38 s
+10/23/2017 7:25:44 PM
+E 19 St & 3 Ave
+	
+10/23/2017 7:43:14 PM
+1 Ave & E 68 St
+	17 min 30 s
+10/20/2017 11:15:51 PM
+Amsterdam Ave & W 82 St
+	
+10/20/2017 11:29:42 PM
+E 84 St & Park Ave
+	13 min 51 s
+10/19/2017 6:00:37 PM
+E 16 St & Irving Pl
+	
+10/19/2017 6:23:02 PM
+Duffield St & Willoughby St
+	22 min 25 s
+10/13/2017 5:12:09 PM
+E 19 St & 3 Ave
+	
+10/13/2017 5:37:22 PM
+Bond St & Fulton St
+	25 min 13 s
+10/12/2017 5:51:36 PM
+E 19 St & 3 Ave
+	
+10/12/2017 6:07:26 PM
+1 Ave & E 68 St
+	15 min 50 s
+10/10/2017 6:25:18 PM
+E 19 St & 3 Ave
+	
+10/10/2017 6:52:00 PM
+Duffield St & Willoughby St
+	26 min 42 s
+10/02/2017 6:48:58 PM
+E 19 St & 3 Ave
+	
+10/02/2017 7:16:13 PM
+Bond St & Fulton St
+	27 min 15 s
+10/02/2017 8:22:06 AM
+Bond St & Fulton St
+	
+10/02/2017 8:48:41 AM
+E 19 St & 3 Ave
+	26 min 35 s
+09/29/2017 9:18:20 PM
+Amsterdam Ave & W 82 St
+	
+09/29/2017 9:32:21 PM
+1 Ave & E 68 St
+	14 min 1 s
+09/29/2017 5:48:16 PM
+E 20 St & Park Ave
+	
+09/29/2017 6:14:13 PM
+Amsterdam Ave & W 82 St
+	25 min 57 s
+09/29/2017 8:28:32 AM
+Bond St & Fulton St
+	
+09/29/2017 8:52:40 AM
+E 19 St & 3 Ave
+	24 min 8 s
+09/28/2017 5:43:00 PM
+E 19 St & 3 Ave
+	
+09/28/2017 6:10:42 PM
+Bond St & Fulton St
+	27 min 42 s
+09/28/2017 8:01:17 AM
+1 Ave & E 68 St
+	
+09/28/2017 8:20:40 AM
+E 19 St & 3 Ave
+	19 min 23 s
+09/26/2017 8:27:00 PM
+E 19 St & 3 Ave
+	
+09/26/2017 8:51:41 PM
+Duffield St & Willoughby St
+	24 min 41 s
+09/26/2017 8:04:57 AM
+1 Ave & E 68 St
+	
+09/26/2017 8:21:10 AM
+E 19 St & 3 Ave
+	16 min 13 s
+09/25/2017 6:32:10 PM
+E 19 St & 3 Ave
+	
+09/25/2017 6:48:15 PM
+1 Ave & E 68 St
+	16 min 5 s
+09/25/2017 7:58:51 AM
+Bond St & Fulton St
+	
+09/25/2017 8:25:08 AM
+E 19 St & 3 Ave
+	26 min 17 s
+09/21/2017 8:31:14 AM
+1 Ave & E 68 St
+	
+09/21/2017 9:01:59 AM
+E 20 St & Park Ave
+	30 min 45 s
+09/18/2017 5:59:38 PM
+E 11 St & 2 Ave
+	
+09/18/2017 6:19:28 PM
+Bond St & Fulton St
+	19 min 50 s
+09/18/2017 8:23:06 AM
+Duffield St & Willoughby St
+	
+09/18/2017 8:47:45 AM
+E 19 St & 3 Ave
+	24 min 39 s
+09/12/2017 8:21:50 AM
+Bond St & Fulton St
+	
+09/12/2017 8:46:09 AM
+E 19 St & 3 Ave
+	24 min 19 s
+09/11/2017 7:03:26 PM
+State St & Smith St
+	
+09/11/2017 7:08:38 PM
+Bond St & Fulton St
+	5 min 12 s
+09/11/2017 5:49:37 PM
+E 19 St & 3 Ave
+	
+09/11/2017 6:14:40 PM
+State St & Smith St
+	25 min 3 s
+09/09/2017 3:26:20 PM
+W 34 St & 11 Ave
+	
+09/09/2017 3:47:52 PM
+Riverside Dr & W 91 St
+	21 min 32 s
+09/04/2017 1:00:57 PM
+Bond St & Fulton St
+	
+09/04/2017 1:35:15 PM
+1 Ave & E 68 St
+	34 min 18 s
+08/30/2017 8:10:53 AM
+1 Ave & E 68 St
+	
+08/30/2017 8:26:48 AM
+E 19 St & 3 Ave
+	15 min 55 s
+08/29/2017 8:06:33 AM
+Bond St & Fulton St
+	
+08/29/2017 8:31:10 AM
+E 19 St & 3 Ave
+	24 min 37 s
+08/24/2017 8:15:10 AM
+1 Ave & E 68 St
+	
+08/24/2017 8:31:02 AM
+E 19 St & 3 Ave
+	15 min 52 s
+08/22/2017 5:56:03 PM
+E 19 St & 3 Ave
+	
+08/22/2017 6:17:42 PM
+Duffield St & Willoughby St
+	21 min 39 s
+08/22/2017 8:13:57 AM
+1 Ave & E 68 St
+	
+08/22/2017 8:29:45 AM
+E 19 St & 3 Ave
+	15 min 48 s
+08/21/2017 6:20:34 PM
+E 19 St & 3 Ave
+	
+08/21/2017 6:34:58 PM
+1 Ave & E 68 St
+	14 min 24 s
+08/21/2017 6:20:05 PM
+E 19 St & 3 Ave
+	
+08/21/2017 6:20:22 PM
+E 19 St & 3 Ave
+	0 min 17 s
+08/21/2017 8:20:32 AM
+Bond St & Fulton St
+	
+08/21/2017 8:45:03 AM
+E 19 St & 3 Ave
+	24 min 31 s
+08/16/2017 6:02:34 PM
+E 19 St & 3 Ave
+	
+08/16/2017 6:18:01 PM
+1 Ave & E 68 St
+	15 min 27 s
+08/13/2017 3:52:30 PM
+Duffield St & Willoughby St
+	
+08/13/2017 4:27:15 PM
+E 55 St & 2 Ave
+	34 min 45 s
+07/22/2017 6:16:51 PM
+Bond St & Fulton St
+	
+07/22/2017 6:30:44 PM
+Plaza St West & Flatbush Ave
+	13 min 53 s
+07/19/2017 8:03:13 AM
+1 Ave & E 68 St
+	
+07/19/2017 8:20:25 AM
+E 19 St & 3 Ave
+	17 min 12 s
+07/18/2017 6:33:10 PM
+E 19 St & 3 Ave
+	
+07/18/2017 6:41:25 PM
+1 Ave & E 44 St
+	8 min 15 s
+07/18/2017 8:20:15 AM
+Bond St & Fulton St
+	
+07/18/2017 8:43:10 AM
+E 19 St & 3 Ave
+	22 min 55 s
+07/15/2017 7:16:38 PM
+Duffield St & Willoughby St
+	
+07/15/2017 7:48:25 PM
+1 Ave & E 68 St
+	31 min 47 s
+07/08/2017 10:18:03 AM
+Lawrence St & Willoughby St
+	
+07/08/2017 10:35:08 AM
+E 11 St & 1 Ave
+	17 min 5 s
+07/05/2017 8:13:17 AM
+1 Ave & E 68 St
+	
+07/05/2017 8:29:46 AM
+E 19 St & 3 Ave
+	16 min 29 s
+07/02/2017 12:16:53 PM
+E 44 St & 2 Ave
+	
+07/02/2017 12:29:14 PM
+E 84 St & 1 Ave
+	12 min 21 s
+07/02/2017 11:28:27 AM
+Lawrence St & Willoughby St
+	
+07/02/2017 11:55:06 AM
+1 Ave & E 44 St
+	26 min 39 s
+06/30/2017 6:20:48 PM
+E 20 St & 2 Ave
+	
+06/30/2017 6:36:02 PM
+1 Ave & E 68 St
+	15 min 14 s
+06/28/2017 7:56:26 AM
+Bond St & Fulton St
+	
+06/28/2017 8:22:27 AM
+E 19 St & 3 Ave
+	26 min 1 s
+06/27/2017 6:38:40 PM
+E 19 St & 3 Ave
+	
+06/27/2017 7:02:42 PM
+Bond St & Fulton St
+	24 min 2 s
+06/26/2017 5:42:49 PM
+E 19 St & 3 Ave
+	
+06/26/2017 6:05:09 PM
+Duffield St & Willoughby St
+	22 min 20 s
+06/22/2017 7:23:56 PM
+E 19 St & 3 Ave
+	
+06/22/2017 7:45:17 PM
+Duffield St & Willoughby St
+	21 min 21 s
+06/22/2017 7:40:07 AM
+Bond St & Fulton St
+	
+06/22/2017 8:02:44 AM
+E 19 St & 3 Ave
+	22 min 37 s
+06/20/2017 5:52:35 PM
+E 19 St & 3 Ave
+	
+06/20/2017 6:00:51 PM
+1 Ave & E 44 St
+	8 min 16 s
+06/19/2017 8:47:39 AM
+Bond St & Fulton St
+	
+06/19/2017 9:10:25 AM
+E 19 St & 3 Ave
+	22 min 46 s
+06/18/2017 1:48:24 PM
+DeKalb Ave & S Portland Ave
+	
+06/18/2017 2:14:39 PM
+E 19 St & 3 Ave
+	26 min 15 s
+06/15/2017 8:19:10 AM
+1 Ave & E 68 St
+	
+06/15/2017 8:35:46 AM
+E 19 St & 3 Ave
+	16 min 36 s
+06/14/2017 7:27:04 PM
+E 20 St & 2 Ave
+	
+06/14/2017 7:40:53 PM
+1 Ave & E 68 St
+	13 min 49 s
+06/09/2017 6:17:35 PM
+E 19 St & 3 Ave
+	
+06/09/2017 6:42:28 PM
+State St & Smith St
+	24 min 53 s
+06/05/2017 7:42:53 AM
+1 Ave & E 68 St
+	
+06/05/2017 7:59:16 AM
+E 19 St & 3 Ave
+	16 min 23 s
+06/02/2017 6:16:43 PM
+E 19 St & 3 Ave
+	
+06/02/2017 6:27:40 PM
+Pershing Square North
+	10 min 57 s
+06/02/2017 8:26:25 AM
+Bond St & Fulton St
+	
+06/02/2017 8:49:03 AM
+E 19 St & 3 Ave
+	22 min 38 s
+06/01/2017 6:58:26 PM
+E 19 St & 3 Ave
+	
+06/01/2017 7:22:17 PM
+Bond St & Fulton St
+	23 min 51 s
+06/01/2017 8:13:22 AM
+1 Ave & E 68 St
+	
+06/01/2017 8:29:39 AM
+E 19 St & 3 Ave
+	16 min 17 s
+05/31/2017 6:34:19 PM
+E 19 St & 3 Ave
+	
+05/31/2017 6:49:49 PM
+1 Ave & E 68 St
+	15 min 30 s
+05/17/2017 7:55:38 AM
+1 Ave & E 68 St
+	
+05/17/2017 8:12:13 AM
+E 19 St & 3 Ave
+	16 min 35 s
+05/16/2017 8:03:19 PM
+E 19 St & 3 Ave
+	
+05/16/2017 8:19:29 PM
+1 Ave & E 68 St
+	16 min 10 s
+05/16/2017 8:16:57 AM
+Bond St & Fulton St
+	
+05/16/2017 8:44:43 AM
+E 19 St & 3 Ave
+	27 min 46 s
+05/10/2017 7:51:26 PM
+State St & Smith St
+	
+05/10/2017 7:54:51 PM
+Bond St & Fulton St
+	3 min 25 s
+05/10/2017 6:03:25 PM
+E 19 St & 3 Ave
+	
+05/10/2017 6:30:39 PM
+State St & Smith St
+	27 min 14 s
+05/10/2017 8:14:25 AM
+Bond St & Fulton St
+	
+05/10/2017 8:38:59 AM
+E 19 St & 3 Ave
+	24 min 34 s
+05/08/2017 6:02:26 PM
+E 19 St & 3 Ave
+	
+05/08/2017 6:26:48 PM
+Bond St & Fulton St
+	24 min 22 s
+05/08/2017 8:14:23 AM
+1 Ave & E 68 St
+	
+05/08/2017 8:30:15 AM
+E 19 St & 3 Ave
+	15 min 52 s
+05/07/2017 10:40:48 AM
+State St & Smith St
+	
+05/07/2017 10:44:23 AM
+Bond St & Fulton St
+	3 min 35 s
+05/07/2017 9:37:32 AM
+Bond St & Fulton St
+	
+05/07/2017 9:40:19 AM
+State St & Smith St
+	2 min 47 s
+05/05/2017 6:24:04 PM
+E 19 St & 3 Ave
+	
+05/05/2017 6:47:48 PM
+Lawrence St & Willoughby St
+	23 min 44 s
+05/05/2017 8:02:34 AM
+Bond St & Fulton St
+	
+05/05/2017 8:33:27 AM
+E 17 St & Broadway
+	30 min 53 s
+05/03/2017 8:43:51 PM
+State St & Smith St
+	
+05/03/2017 8:47:34 PM
+Bond St & Fulton St
+	3 min 43 s
+05/03/2017 6:59:18 PM
+E 19 St & 3 Ave
+	
+05/03/2017 7:24:40 PM
+State St & Smith St
+	25 min 22 s
+05/03/2017 8:18:02 AM
+1 Ave & E 68 St
+	
+05/03/2017 8:35:41 AM
+E 19 St & 3 Ave
+	17 min 39 s
+05/02/2017 6:40:37 PM
+E 47 St & 1 Ave
+	
+05/02/2017 6:48:38 PM
+1 Ave & E 68 St
+	8 min 1 s
+05/02/2017 6:27:53 PM
+E 19 St & 3 Ave
+	
+05/02/2017 6:38:32 PM
+E 47 St & 1 Ave
+	10 min 39 s
+05/02/2017 8:15:10 AM
+Bond St & Fulton St
+	
+05/02/2017 8:40:36 AM
+E 19 St & 3 Ave
+	25 min 26 s
+05/01/2017 6:39:03 PM
+E 19 St & 3 Ave
+	
+05/01/2017 7:03:15 PM
+State St & Smith St
+	24 min 12 s
+05/01/2017 8:04:18 AM
+1 Ave & E 68 St
+	
+05/01/2017 8:22:44 AM
+E 20 St & Park Ave
+	18 min 26 s
+05/01/2017 8:03:30 AM
+1 Ave & E 68 St
+	
+05/01/2017 8:03:51 AM
+1 Ave & E 68 St
+	0 min 21 s
+04/29/2017 7:47:55 PM
+E 44 St & 2 Ave
+	
+04/29/2017 7:48:14 PM
+E 44 St & 2 Ave
+	0 min 19 s
+04/29/2017 3:01:15 PM
+E 20 St & Park Ave
+	
+04/29/2017 3:29:06 PM
+Bond St & Fulton St
+	27 min 51 s
+04/24/2017 5:50:09 PM
+E 19 St & 3 Ave
+	
+04/24/2017 6:18:29 PM
+Bond St & Schermerhorn St
+	28 min 20 s
+04/19/2017 8:26:09 AM
+Duffield St & Willoughby St
+	
+04/19/2017 8:49:28 AM
+E 19 St & 3 Ave
+	23 min 19 s
+04/19/2017 8:21:15 AM
+Bond St & Fulton St
+	
+04/19/2017 8:23:55 AM
+Duffield St & Willoughby St
+	2 min 40 s
+04/18/2017 5:12:51 PM
+E 19 St & 3 Ave
+	
+04/18/2017 5:42:47 PM
+Duffield St & Willoughby St
+	29 min 56 s
+04/17/2017 6:04:11 PM
+E 19 St & 3 Ave
+	
+04/17/2017 6:30:42 PM
+Bond St & Fulton St
+	26 min 31 s
+04/17/2017 7:51:47 AM
+Bond St & Fulton St
+	
+04/17/2017 8:16:54 AM
+E 19 St & 3 Ave
+	25 min 7 s
+04/14/2017 8:04:42 AM
+Bond St & Fulton St
+	
+04/14/2017 8:32:44 AM
+E 19 St & 3 Ave
+	28 min 2 s
+04/13/2017 6:45:08 PM
+E 19 St & 3 Ave
+	
+04/13/2017 7:11:43 PM
+Duffield St & Willoughby St
+	26 min 35 s
+04/12/2017 6:18:42 PM
+E 15 St & 3 Ave
+	
+04/12/2017 6:45:56 PM
+Duffield St & Willoughby St
+	27 min 14 s
+04/12/2017 8:10:58 AM
+1 Ave & E 68 St
+	
+04/12/2017 8:42:40 AM
+E 17 St & Broadway
+	31 min 42 s
+04/11/2017 6:26:51 PM
+E 19 St & 3 Ave
+	
+04/11/2017 6:45:38 PM
+1 Ave & E 68 St
+	18 min 47 s
+04/11/2017 8:04:03 AM
+Duffield St & Willoughby St
+	
+04/11/2017 8:28:16 AM
+E 19 St & 3 Ave
+	24 min 13 s
+04/10/2017 6:56:34 PM
+1 Ave & E 16 St
+	
+04/10/2017 7:20:20 PM
+Duffield St & Willoughby St
+	23 min 46 s
+04/10/2017 6:19:46 PM
+Duffield St & Willoughby St
+	
+04/10/2017 6:51:15 PM
+1 Ave & E 16 St
+	31 min 29 s
+04/08/2017 4:08:18 PM
+Bond St & Fulton St
+	
+04/08/2017 4:29:28 PM
+3 St & Prospect Park West
+	21 min 10 s
+03/05/2017 2:22:10 PM
+Dean St & Hoyt St
+	
+03/05/2017 2:42:01 PM
+Sigourney St & Columbia St
+	19 min 51 s
